@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,600&display=swap');
+body{
+    background-color: dimgrey;
+}
+a{
+    color: limegreen;
+}
+.color_numbers{
+    color: limegreen;
+}
+.hobbies_color{
+    color: rgb(255, 187, 0);
+}
+
+.font{
+    color: rgb(16, 219, 255);
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
